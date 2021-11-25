@@ -7,8 +7,14 @@ module.exports = {
         brand: {
           pink: "#FFF1E8",
           red: "#AD000A",
-          orange: "#F46523",
-          black: "#121214",
+          orange: {
+            light: "#F46523",
+            lighter: "#ad6a19",
+          },
+          black: {
+            light: "#121214",
+            lighter: "#18181b",
+          },
           blue: {
             lighter: "#63A7FF",
             light: "#286ce5",

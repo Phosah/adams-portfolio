@@ -145,7 +145,9 @@
                 <p>The next steps will be to design other pending screens which I also currently have to improve the user flow. I would also love to explore some more User Epics for the application, for example, catalogue sections, sign up, on-boarding process, shopping possibilities.</p>
             </div>
         </section>
-        <h2>Thank you for your time</h2>
+        <aside>
+            <h2>Thank you for your time</h2>
+        </aside>
         <section class="py-20">
             <div class="flex">
                 <div>

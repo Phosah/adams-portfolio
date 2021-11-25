@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="styles.css" />
 </head>
 
-<body class="font-normal bg-brand-black font-body">
+<body class="font-normal bg-brand-black-light font-body">
     <div class="max-w-4xl px-6 mx-auto">
         <header class="mb-32">
             <!--header start-->
@@ -24,7 +24,7 @@
                             Over 3+ years of hands-on experience on UI/UX design and Interaction design expertise. I employ my creative, technical, and analytical prowess to craft unique ideas that delight users, tell compelling stories, and help drive business growth.
                         </div>
                         <div class="">
-                            <button class="px-8 py-2 mr-8 text-white rounded-full bg-brand-orange"><a href="contact.php">Get in Touch</a></button>
+                            <button class="px-8 py-2 mr-8 text-white rounded-full bg-brand-orange-light"><a href="contact.php">Get in Touch</a></button>
                             <button class="text-white bg-transparent border-b border-brand-orange"><a href="adamsdavid-cv.pdf">Download resume</a></button>
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                             <h3 class="pb-16 text-sm font-normal font-body">WEB APP</h3>
                             <h2 class="pb-16 text-3xl font-bold font-titleMain">SHOPLIFT</h2>
                             <p class="pb-16 text-sm font-medium font-body">Building a consistent web expeirence on shoplift platform</p>
-                            <button class="px-12 py-3 rounded-full bg-brand-orange">View case study</button>
+                            <button class="px-12 py-3 rounded-full bg-brand-orange-light">View case study</button>
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                             <h3 class="pb-16 text-sm font-normal font-body">MOBILE APP</h3>
                             <h2 class="pb-16 text-3xl font-bold font-titleMain">Cash Exchange</h2>
                             <p class="pb-16 text-sm font-medium font-body">Improving point of service (POS) to a one touch service recieve/transfer cash</p>
-                            <button class="px-12 py-3 rounded-full bg-brand-orange">View case study</button>
+                            <button class="px-12 py-3 rounded-full bg-brand-orange-light">View case study</button>
                         </div>
                     </div>
                     <div class="flex items-center justify-center order-1 w-full md:w-1/2 bg-brand-pink md:order-2">
@@ -77,7 +77,7 @@
                             <h3 class="pb-16 text-sm font-normal font-bodyl">WEB APP</h3>
                             <h2 class="pb-16 text-3xl font-bold font-titleSub">EventR</h2>
                             <p class="pb-16 text-sm font-medium font-body">Improving the online Event Platform experience and interaction between hosts and online audience.</p>
-                            <button class="px-12 py-3 rounded-full bg-brand-orange">View case study</button>
+                            <button class="px-12 py-3 rounded-full bg-brand-orange-light">View case study</button>
                         </div>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
                             <h3 class="pb-16 text-sm font-normal font-body">MOBILE APP</h3>
                             <h2 class="pb-16 text-3xl font-bold font-titleSub">my Tudo</h2>
                             <p class="pb-16 text-sm font-medium font-body">Working in a multidisciplinary team to design a tool to help people smash their goals</p>
-                            <button class="px-12 py-3 rounded-full bg-brand-orange">View case study</button>
+                            <button class="px-12 py-3 rounded-full bg-brand-orange-light">View case study</button>
                         </div>
                     </div>
                     <div class="flex items-center justify-center order-1 w-full md:w-1/2 md:order-2 bg-brand-pink">

@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Page</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body class="bg-brand-black font-body">
+
+<body class="bg-brand-black-light font-body">
     <div class="max-w-4xl mx-auto px-6">
         <?php include("navbar.php") ?>
         <main>
@@ -24,7 +26,7 @@
                 </div>
                 <div class="mb-5">
                     <label class="block" for="email">Email (required)</label>
-                    <input  class="w-full bg-transparent border border-gray-400 py-2 rounded-lg" type="email">
+                    <input class="w-full bg-transparent border border-gray-400 py-2 rounded-lg" type="email">
                 </div>
                 <div class="mb-5">
                     <label class="block" for="subject">Subject</label>
@@ -35,11 +37,12 @@
                     <textarea class="w-full bg-transparent border border-gray-400 py-2 rounded-lg" name="message" id="" cols="30" rows="10"></textarea>
                 </div>
                 <div class="mb-20">
-                    <button class="rounded-full bg-brand-orange px-14 py-2 text-white">Send</button>
+                    <button class="rounded-full bg-brand-orange-light px-14 py-2 text-white">Send</button>
                 </div>
             </section>
         </main>
         <?php include("footer.php") ?>
     </div>
 </body>
+
 </html>

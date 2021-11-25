@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <title>About page</title>
 </head>
-<body class="font-about bg-brand-black text-base">
+
+<body class="font-about bg-brand-black-light text-base">
     <div class="max-w-4xl mx-auto px-6">
         <?php include("navbar.php") ?>
         <main class="mt-32">
@@ -18,7 +20,7 @@
                     <div class="w-2/3 text-white text-sm">
                         <h3 class="mb-4 text-xl text-white font-semibold tracking-wider">Hi, I'm Adams David</h3>
                         <p class="mb-8 text-justify leading-7 font-extralight">Currently based in Lagos, I work as a Creative Technologist, and Innovation Strategist. I employ my creative, technical, and analytical prowess with a passion for creating elegant yet simple experiences and interfaces that solve problems by simplifying complex processes.
-                        I am fascinated by the idea of growth through learning and constant practice. From starting out as a Front-end Web Developer to transitioning into UI/UX Design I have learnt how design can solve problems and be leveraged on to make positive impact.</p>
+                            I am fascinated by the idea of growth through learning and constant practice. From starting out as a Front-end Web Developer to transitioning into UI/UX Design I have learnt how design can solve problems and be leveraged on to make positive impact.</p>
 
                         <p class="mb-8 text-justify leading-7 font-extralight">With Over 2+ years of experience, I have led designs and executed multiple projects designs(In-house) from Web applications, Mobile applications and several SAAS platforms in various context for local and international brands. Also, You’ll find me working with teams to explore new frontiers, launch and grow new products or services, customer experiences, and as such helping them thrive in this digital age.</p>
 
@@ -33,6 +35,7 @@
             </section>
         </main>
         <?php include("footer.php") ?>
-    </div>   
+    </div>
 </body>
+
 </html>
