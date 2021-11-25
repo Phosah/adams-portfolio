@@ -14,6 +14,7 @@ module.exports = {
           black: {
             light: "#121214",
             lighter: "#18181b",
+            lightest: "#151517"
           },
           blue: {
             lighter: "#63A7FF",
@@ -28,7 +29,16 @@ module.exports = {
           },
           yellow: {
             light: "#F69219"
-          }          
+          },
+          design: {
+            1: "#1F2223",
+            2: "#5A5A5A",
+            3: "#1A1C1B",
+            4: "#060606",
+            5: "#535353",
+            6: "#313538",
+            7: "#FFFFFF"
+          }        
         },
       },
       fontFamily: {

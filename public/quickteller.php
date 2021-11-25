@@ -156,15 +156,15 @@
                 </div>
             </section>
             <aside class="pb-12">
-                <h2 class="text-4xl text-center text-brand-gray-light font-semibold">Thank you for your time</h2>
+                <h2 class="text-3xl text-center text-brand-gray-light font-bold">Thank you for your time</h2>
             </aside>
             <section>
-                <div class="max-w-2xl mx-auto flex items-center justify-between space-x-8">
+                <div class="max-w-xl mx-auto flex items-center justify-between space-x-6">
                     <div>
                         <h2 class="mb-4">NEXT PROJECT</h2>
                         <div class="flex space-x-10 mb-4">
-                            <h2>EventR</h2>
-                            <i>Arrow</i>
+                            <h2 class="text-xl font-semibold">EventR</h2>
+                            <img src="img/arrow-right.png" alt="Right arrow">
                         </div>
                         <h2>VIEW ALL</h2>
                     </div>
@@ -172,7 +172,9 @@
                 </div>
             </section>
         </main>
-        <?php include 'footer.php' ?>
+        <div class="max-w-4xl mx-auto px-6">
+            <?php include 'footer.php' ?>
+        </div>
     </div>
 </body>
 

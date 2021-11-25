@@ -23,7 +23,7 @@
                         <h1 class="mb-2 text-2xl font-semibold">SHOPLIFT</h1>
                         <h2 class="text-lg font-semibold">UX Case Study</h2>
                     </div>
-                    <p class=" mb-8 font-extralight">Optimizing customer experience in order to improve sales</p>
+                    <p class="mb-8 font-extralight">Optimizing customer experience in order to improve sales</p>
                     <p class="text-xs font-extralight">Ergonomics, Simplicity, Consistency</p>
                 </div>
                 <div><img src="img/shoplift.png" alt="Shoplift"></div>
@@ -31,8 +31,8 @@
         </header>
     </div>
     <div class="bg-brand-black-lighter text-white">
-        <main class="max-w-4xl mx-auto px-6 py-20">
-            <section class="flex space-x-12">
+        <main class="max-w-4xl mx-auto px-6">
+            <section class="flex space-x-12 py-20">
                 <div class="w-10/12">
                     <div class="mb-8">
                         <h3 class="mb-2 text-base font-semibold">My Role</h3>
@@ -56,28 +56,28 @@
                     <p>So, the idea behind the design was to conceptualized a website that has a fashion catalogue and also accomodate e-commerce features to enhance seamless userbility. </p>
                 </div>
             </section>
-            <section class="py-14">
-                <div class="flex">
+            <section class="p-12 bg-brand-black-light">
+                <div class="flex items-center space-x-4 mb-4">
                     <div><img src="img/nigerian-flag.png" alt="Nigerian flag"></div>
-                    <p>Nigeria</p>
+                    <p class="font-semibold">Nigeria</p>
                 </div>
-                <div>
-                    <div>
-                        <p>Population</p>
-                        <p>206 million</p>
+                <div class="flex justify-between space-x-2">
+                    <div class="flex-1">
+                        <p class="mb-4">Population</p>
+                        <p class="text-xl font-semibold">206 million</p>
                         <p>(2020)</p>
                     </div>
-                    <div>
+                    <div class="flex-1">
                         <p>Fashion Website</p>
-                        <p>(visits) e-commerce</p>
-                        <p>1.90%</p>
+                        <p class="mb-4 text-xs">(visits) e-commerce</p>
+                        <p class="text-xl font-semibold">1.90%</p>
                     </div>
-                    <div>
+                    <div class="flex-1">
                         <p>Online Vendors</p>
-                        <p>(visits) e-commerce</p>
-                        <p>32.8%</p>
+                        <p class="mb-4 text-xs">(visits) e-commerce</p>
+                        <p class="text-xl font-semibold">32.8%</p>
                     </div>
-                    <div>
+                    <div class="flex-1">
                         <p>Less than 10 person visit a fashion website</p>
                     </div>
                 </div>
@@ -86,9 +86,9 @@
                 <h2 class="mb-8 inline-block border-b-2 border-brand-orange-lighter text-lg font-semibold">Ideation</h2>
                 <h3 class="text-base font-semibold mb-4">a. User Story</h3>
                 <p class="mb-8">For my design solution, the key experience is the “Style/Design Catolgue”. This is also the least viable feature the product can offer, other features on accessing the e-commerce function is also included in the design setup.</p>
-                <div class="flex flex-col items-center mb-8">
-                    <h3 class="">Epic: SHOPLIFT</h3>
-                    <div><img src="img/ideation.png" alt="Ideation"></div>
+                <div class="w-2/3 mx-auto mb-24">
+                    <h3 class="mb-4 text-base font-semibold">Epic: SHOPLIFT</h3>
+                    <div><img class="w-full" src="img/shoplift-1.png" alt="Ideation"></div>
                 </div>
                 <h3 class="text-base font-semibold mb-4">b. Wireframing</h3>
                 <p>Once I got an understanding of the users, their task and stories, I started sketching design solutions. The process of sketching enables me to visualize different ideas and try out content placement.</p>
@@ -96,42 +96,42 @@
             <section class="py-14">
                 <h2 class="mb-8 inline-block border-b-2 border-brand-orange-lighter text-lg font-semibold">Visual Design</h2>
                 <h3 class="text-base font-semibold mb-4">Brand Colors</h3>
-                <p class="mb-8">The mood and emotions to be evoked from the application are those of calm, trendy, elegant, bold and overall uniqueness. As a UI Designer, I can translate these type of colors in unique ways. </p>
-                <div class="flex space-x-6 mb-8">
+                <p class="mb-12">The mood and emotions to be evoked from the application are those of calm, trendy, elegant, bold and overall uniqueness. As a UI Designer, I can translate these type of colors in unique ways. </p>
+                <div class="flex justify-between space-x-6 mb-12 py-10 px-8 bg-brand-black-light">
                     <div>
-                        <div class="w-24 h-24 bg-yellow-300"></div>
-                        <p>#1F2223</p>
+                        <div class="w-16 h-12 mb-2 bg-brand-design-1 rounded-md"></div>
+                        <p class="text-center">#1F2223</p>
                     </div>
                     <div>
-                        <div class="w-24 h-24 bg-yellow-300"></div>
-                        <p>#1F2223</p>
+                        <div class="w-16 h-12 mb-2 bg-brand-design-2 rounded-md"></div>
+                        <p class="text-center">#5A5A5A</p>
                     </div>
                     <div>
-                        <div class="w-24 h-24 bg-yellow-300"></div>
-                        <p>#1F2223</p>
+                        <div class="w-16 h-12 mb-2 bg-brand-design-3 rounded-md"></div>
+                        <p class="text-center">#1A1C1B</p>
                     </div>
                     <div>
-                        <div class="w-24 h-24 bg-yellow-300"></div>
-                        <p>#1F2223</p>
+                        <div class="w-16 h-12 mb-2 bg-brand-design-4 rounded-md"></div>
+                        <p class="text-center">#060606</p>
                     </div>
                     <div>
-                        <div class="w-24 h-24 bg-yellow-300"></div>
-                        <p>#1F2223</p>
+                        <div class="w-16 h-12 mb-2 bg-brand-design-5 rounded-md"></div>
+                        <p class="text-center">#5E5E5E</p>
                     </div>
                     <div>
-                        <div class="w-24 h-24 bg-yellow-300"></div>
-                        <p>#1F2223</p>
+                        <div class="w-16 h-12 mb-2 bg-brand-design-6 rounded-md"></div>
+                        <p class="text-center">#313538</p>
                     </div>
                     <div>
-                        <div class="w-24 h-24 bg-yellow-300"></div>
-                        <p>#1F2223</p>
+                        <div class="w-16 h-12 mb-2 bg-brand-design-7 rounded-md"></div>
+                        <p class="text-center">#FFFFFF</p>
                     </div>
                 </div>
-                <div class="mb-8">
-                    <p>Brand Color Interpretation</p>
-                    <div>
-                        <div><i></i></div>
-                        <div><i></i></div>
+                <div class="flex flex-col items-center justify-center mb-16">
+                    <p class="mb-6">Brand Color Interpretation</p>
+                    <div class="flex space-x-4">
+                        <div class="py-1 px-6 bg-brand-black-light"><img src="img/arrow-left.png" alt="Arrow left"></div>
+                        <div class="py-1 px-6 bg-brand-black-light"><img src="img/arrow-right.png" alt=""></div>
                     </div>
                 </div>
                 <div class="mb-8">
@@ -152,15 +152,14 @@
                 </div>
             </section>
             <aside class="py-12">
-                <h2 class="text-4xl text-center text-brand-gray-light font-semibold">Thank you for your time</h2>
+                <h2 class="text-3xl text-center text-brand-gray-light font-bold">Thank you for your time</h2>
             </aside>
             <section class="py-20">
-                <div class="max-w-2xl mx-auto flex items-center justify-between space-x-8">
+                <div class="max-w-xl mx-auto flex items-center justify-between space-x-6">
                     <div>
                         <h2 class="mb-4">NEXT PROJECT</h2>
-                        <div class="flex">
-                            <h2>Cash Exchange</h2>
-                            <i>Arrow</i>
+                        <div class="mb-4">
+                            <h2 class="text-xl font-semibold">Cash Exchange</h2>
                         </div>
                         <h2>VIEW ALL</h2>
                     </div>
@@ -168,7 +167,9 @@
                 </div>
             </section>
         </main>
-        <?php include 'footer.php' ?>
+        <div class="max-w-4xl mx-auto px-6">
+            <?php include 'footer.php' ?>
+        </div>
     </div>
 </body>
 
