@@ -156,7 +156,7 @@
                 </div>
             </section>
             <aside class="pb-12">
-                <h2 class="text-2xl text-center text-brand-gray-light font-semibold">Thank you for your time</h2>
+                <h2 class="text-4xl text-center text-brand-gray-light font-semibold">Thank you for your time</h2>
             </aside>
             <section>
                 <div class="max-w-2xl mx-auto flex items-center justify-between space-x-8">
@@ -172,8 +172,8 @@
                 </div>
             </section>
         </main>
+        <?php include 'footer.php' ?>
     </div>
-    <?php include 'footer.php' ?>
 </body>
 
 </html>
