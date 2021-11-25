@@ -101,7 +101,7 @@
                     </div>
                 </div>
             </section>
-            <section class="py-20">
+            <section class="py-10">
                 <h2 class="mb-8 inline-block border-b-2 border-brand-orange-lighter text-lg font-semibold">Observe</h2>
                 <h3 class="text-base font-semibold mb-2">Problem Assumption:</h3>
                 <ul class="mb-8 list-disc list-inside">
@@ -114,7 +114,7 @@
                 <h2 class="mb-2 text-base font-semibold">User Persona:</h2>
                 <p class="">I interviewed some friends of mine who use the platform regularly. I asked them if "they knew about all the features of the platform?", "what do they think about the interface redesign?", "do they know that there was a mobile application available?", "What they thought about the background images". 2/4 people I spoke to said they were not aware Quickteller had a "Loan Request" feature. 1 of them were satisfied with the interface redesign while the other 1 felt the overall experience could be better. 2 of them said that the there felt that the background images were a mismatch for the type of services that the platform offers. 1 of them were aware that the platform has a mobile application</p>
             </section>
-            <section class="py-20">
+            <section class="py-10">
                 <h2 class="mb-8 inline-block border-b-2 border-brand-orange-lighter text-xl font-semibold">Define</h2>
                 <div class="mb-4">
                     <h3 class="mb-2 text-base font-semibold">Having validated the assumptions</h3>
@@ -128,7 +128,7 @@
                     <h3 class="mb-2 text-base font-semibold">The vendor user research bar is redundant because they could perform the same task from the "Pay Bills" section.</h3>
                     <p>Pain point 3: Mismatched background images</p>
                 </div>
-                <h3 class="mb-4 text-base font-semibold">Users want to see the platform have a more modern look and feel.</h3>
+                <h3 class="mb-6 text-base font-semibold">Users want to see the platform have a more modern look and feel.</h3>
                 <div><img src="img/quickteller-home.png" alt="Quickteller home page"></div>
             </section>
             <section class="py-20">
@@ -137,8 +137,8 @@
                 <div><img src="img/ideate.png" alt="Ideate"></div>
             </section>
             <section class="py-20">
-                <h2 class="mb-8 inline-block border-b-2 border-brand-orange-lighter text-xl font-semibold">Prototyping</h2>
-                <p class="mb-8">User Interface Design.</p>
+                <h2 class="mb-6 inline-block border-b-2 border-brand-orange-lighter text-xl font-semibold">Prototyping</h2>
+                <p class="mb-2">User Interface Design.</p>
                 <div class="mb-6"><img src="img/prototype.png" alt="Prototype"></div>
                 <div class="mb-24"><img src="img/prototype-2.png" alt="Prototype"></div>
                 <div>
@@ -152,7 +152,7 @@
                     <h3 class="mb-2 text-base font-semibold">Validate:</h3>
                     <p class="mb-8">To make sure that the redesigned interface addressed the pain points. I interviewed a few users. One of them had this to say:</p>
                     <p class="mb-8">"At a glance, one can see what the product is all about and can quickly interact with various  features by toggling. The redesigned retains the simplicity of the original design while increasing the overall “WOW’ factor of the application."</p>
-                    <p class="font-extralight">**Disclamier: I do not work for interswitch group nor am I affiliated with them. I did this UX case study to improve my problem solving skills.</p>
+                    <p class="font-extralight italic">**Disclamier: I do not work for interswitch group nor am I affiliated with them. I did this UX case study to improve my problem solving skills.</p>
                 </div>
             </section>
             <aside class="pb-12">
