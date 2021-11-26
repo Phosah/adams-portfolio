@@ -12,26 +12,26 @@
 <body class="font-normal font-body text-sm">
     <div class="bg-brand-black-light text-white">
         <header class="max-w-4xl mx-auto px-6 pb-10">
-            <nav class="flex justify-between items-center pt-14 pb-1 text-white font-about">
+            <nav class="flex justify-between items-center pt-14 pb-8 sm:pb-4 text-white font-about">
                 <div class="">
                     <a href="index.php"><img class="" src="img/portfolio.png" alt="David Adams Logo"></a>
                 </div>
                 <div class="">
-                    <a href="about.php" class="pl-8 font-medium">About</a>
-                    <!-- <a href="projects.php" class="pl-8 font-medium">Projects</a> -->
-                    <a href="adamsdavid-cv.pdf" class="pl-8 font-medium">Resume</a>
-                    <a href="contact.php" class="pl-8 font-medium">Contact</a>
+                    <a href="about.php" class="pl-4 sm:pl-8 font-medium">About</a>
+                    <!-- <a href="projects.php" class="pl-4 sm:pl-8 font-medium">Projects</a> -->
+                    <a href="adamsdavid-cv.pdf" class="pl-4 sm:pl-8 font-medium">Resume</a>
+                    <a href="contact.php" class="pl-4 sm:pl-8 font-medium">Contact</a>
                 </div>
             </nav>
-            <div class="flex items-center justify-between space-x-4">
-                <div class="w-1/3">
+            <div class="sm:flex items-center justify-between space-x-4">
+                <div class="sm:w-1/3 mb-8 sm:mb-0">
                     <div class="mb-8 font-extralight">
                         <p>Landing page multi-channel payments platform</p>
                         <p>Web UI Design</p>
                     </div>
                     <div class="mb-8">
                         <h2 class="text-lg font-semibold">Improving</h2>
-                        <h1 class="mb-2 text-2xl font-semibold">Quickteller.com</h1>
+                        <h1 class="mb-2 text-2xl md:text-4xl font-semibold">Quickteller.com</h1>
                         <h2 class="text-lg font-semibold">UX Case Study</h2>
                     </div>
                     <p class="w-10/12 mb-8 font-extralight">Customer convienient platform for online transactions and bill payments</p>
@@ -39,16 +39,12 @@
                 </div>
                 <div><img src="img/quickteller.png" alt=""></div>
             </div>
-            <!-- <div class="flex">
-                <div><img src="img/quick-1.png" alt="Quickteller payment"></div>
-                <div><img src="img/quick-2.png" alt="Quickteller payment"></div>
-            </div> -->
         </header>
     </div>
     <div class="bg-brand-black-lighter text-white">
         <main class="max-w-4xl mx-auto px-6 py-20">
-            <section class="flex space-x-12">
-                <div class="w-10/12">
+            <section class="sm:flex sm:space-x-12">
+                <div class="flex sm:flex-col justify-between sm:justify-start space-x-1 sm:w-10/12">
                     <div class="mb-8">
                         <h3 class="mb-2 text-base font-semibold">My Role</h3>
                         <p class="mb-2">UX Researcher</p>
@@ -58,12 +54,16 @@
                         <h3 class="mb-2 text-base font-semibold">Type</h3>
                         <p>Project</p>
                     </div>
+                    <div class="mb-8">
+                        <h3 class="mb-2 text-base font-semibold">Tool</h3>
+                        <p>Figma</p>
+                    </div>
                     <div>
                         <h3 class="text-base font-semibold mb-2">Duration</h3>
                         <p>3 weeks</p>
                     </div>
                 </div>
-                <div class="font-extralight">
+                <div class="font-extralight leading-loose">
                     <h2 class="mb-8 inline-block border-b-2 border-brand-orange-lighter text-lg font-semibold">Introduction</h2>
                     <p class="mb-8">Quickteller is one of those quick access transfer money platform for transactions and others; but exhasted other options (Banking app). Not to take away the efficiency of what it generate and how easy it feels to use after completing transaction by navigating too many proc esses on the landing page which basically looks like a search box.</p>
                     <p class="mb-8">Hence, the need to provide and improved and efficient look to give users the satisfaction and swiftness in making their day-to-day transaction which in-turn will generate more revenue.</p>
@@ -72,36 +72,36 @@
             </section>
             <section class="py-20">
                 <h2 class="mb-12 text-base font-semibold">Design Process</h2>
-                <div class="flex justify-between">
-                    <div class="flex flex-col items-center">
+                <div class="flex flex-wrap justify-between">
+                    <div class="flex flex-col items-center mx-1 mb-2">
                         <div class="flex items-center justify-center w-20 h-20 mb-2 rounded-full bg-brand-blue-darker text-white text-center">Observe
                         </div>
                         <p class="text-center">Problem</p>
                         <p class="text-center">Assumption</p>
                     </div>
-                    <div class="flex flex-col items-center">
+                    <div class="flex flex-col items-center mx-1 mb-2">
                         <div class="flex items-center justify-center w-20 h-20 mb-2 rounded-full bg-white text-brand-blue-darker text-center">Define
                         </div>
                         <p class="text-center">Pain Points</p>
                     </div>
-                    <div class="flex flex-col items-center">
+                    <div class="flex flex-col items-center mx-1 mb-2">
                         <div class="flex items-center justify-center w-20 h-20 mb-2 rounded-full bg-brand-blue-darker text-white text-center">Ideate
                         </div>
                         <p class="text-center">Paper Sketch</p>
                     </div>
-                    <div class="flex flex-col items-center">
+                    <div class="flex flex-col items-center mx-1 mb-2">
                         <div class="flex items-center justify-center w-20 h-20 mb-2 rounded-full bg-white text-brand-blue-darker text-center">Prototype
                         </div>
                         <p class="text-center">UI Design</p>
                     </div>
-                    <div class="flex flex-col items-center ">
+                    <div class="flex flex-col items-center mx-1 mb-2 ">
                         <div class="flex items-center justify-center w-20 h-20 mb-2 rounded-full bg-brand-blue-darker text-white text-center">Validate
                         </div>
                         <p class="text-center">Usability Testing</p>
                     </div>
                 </div>
             </section>
-            <section class="py-10">
+            <section class="py-10 leading-loose">
                 <h2 class="mb-8 inline-block border-b-2 border-brand-orange-lighter text-lg font-semibold">Observe</h2>
                 <h3 class="text-base font-semibold mb-2">Problem Assumption:</h3>
                 <ul class="mb-8 list-disc list-inside">
@@ -114,29 +114,29 @@
                 <h2 class="mb-2 text-base font-semibold">User Persona:</h2>
                 <p class="">I interviewed some friends of mine who use the platform regularly. I asked them if "they knew about all the features of the platform?", "what do they think about the interface redesign?", "do they know that there was a mobile application available?", "What they thought about the background images". 2/4 people I spoke to said they were not aware Quickteller had a "Loan Request" feature. 1 of them were satisfied with the interface redesign while the other 1 felt the overall experience could be better. 2 of them said that the there felt that the background images were a mismatch for the type of services that the platform offers. 1 of them were aware that the platform has a mobile application</p>
             </section>
-            <section class="py-10">
+            <section class="py-10 leading-loose">
                 <h2 class="mb-8 inline-block border-b-2 border-brand-orange-lighter text-xl font-semibold">Define</h2>
                 <div class="mb-4">
-                    <h3 class="mb-2 text-base font-semibold">Having validated the assumptions</h3>
+                    <h3 class="mb-1 text-base font-semibold">Having validated the assumptions</h3>
                     <p>Pain point 1: The features (Discoverability)</p>
                 </div>
                 <div class="mb-4">
-                    <h3 class="mb-2 text-base font-semibold">User want to see all the features of the platform at a glance</h3>
+                    <h3 class="mb-1 text-base font-semibold">User want to see all the features of the platform at a glance</h3>
                     <p>Pain point 2: Redundant features</p>
                 </div>
                 <div class="mb-4">
-                    <h3 class="mb-2 text-base font-semibold">The vendor user research bar is redundant because they could perform the same task from the "Pay Bills" section.</h3>
+                    <h3 class="mb-1 text-base font-semibold">The vendor user research bar is redundant because they could perform the same task from the "Pay Bills" section.</h3>
                     <p>Pain point 3: Mismatched background images</p>
                 </div>
                 <h3 class="mb-6 text-base font-semibold">Users want to see the platform have a more modern look and feel.</h3>
                 <div><img src="img/quickteller-home.png" alt="Quickteller home page"></div>
             </section>
-            <section class="py-20">
+            <section class="py-20 leading-loose">
                 <h2 class="mb-8 inline-block border-b-2 border-brand-orange-lighter text-xl font-semibold">Ideate</h2>
                 <p class="mb-8">To solve the user problems, sketched out some possible solutions on paper.</p>
                 <div><img src="img/ideate.png" alt="Ideate"></div>
             </section>
-            <section class="py-20">
+            <section class="py-10 leading-loose">
                 <h2 class="mb-6 inline-block border-b-2 border-brand-orange-lighter text-xl font-semibold">Prototyping</h2>
                 <p class="mb-2">User Interface Design.</p>
                 <div class="mb-6"><img src="img/prototype.png" alt="Prototype"></div>
@@ -151,7 +151,7 @@
                     </ul>
                     <h3 class="mb-2 text-base font-semibold">Validate:</h3>
                     <p class="mb-8">To make sure that the redesigned interface addressed the pain points. I interviewed a few users. One of them had this to say:</p>
-                    <p class="mb-8">"At a glance, one can see what the product is all about and can quickly interact with various  features by toggling. The redesigned retains the simplicity of the original design while increasing the overall “WOW’ factor of the application."</p>
+                    <p class="mb-8">"At a glance, one can see what the product is all about and can quickly interact with various features by toggling. The redesigned retains the simplicity of the original design while increasing the overall “WOW’ factor of the application."</p>
                     <p class="font-extralight italic">**Disclamier: I do not work for interswitch group nor am I affiliated with them. I did this UX case study to improve my problem solving skills.</p>
                 </div>
             </section>
