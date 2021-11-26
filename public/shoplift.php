@@ -20,7 +20,7 @@
                         <p>Web UI Design</p>
                     </div>
                     <div class="mb-8">
-                        <h1 class="mb-2 text-5xl font-semibold">SHOPLIFT</h1>
+                        <h1 class="mb-2 text-4xl md:text-4xl font-semibold">SHOPLIFT</h1>
                         <h2 class="text-lg font-semibold">UX Case Study</h2>
                     </div>
                     <p class="mb-8 font-extralight">Optimizing customer experience in order to improve sales</p>

@@ -31,7 +31,7 @@
                     </div>
                     <div class="mb-8">
                         <h2 class="text-lg font-semibold">Improving</h2>
-                        <h1 class="mb-2 text-2xl md:text-4xl font-semibold">Quickteller.com</h1>
+                        <h1 class="mb-2 text-3xl md:text-4xl font-semibold">Quickteller.com</h1>
                         <h2 class="text-lg font-semibold">UX Case Study</h2>
                     </div>
                     <p class="w-10/12 mb-8 font-extralight">Customer convienient platform for online transactions and bill payments</p>
